@@ -1,0 +1,21 @@
+# Secrets
+secrets.env
+*.env
+
+# Common secrets patterns
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Editor clutter
+.vscode/
+.idea/
+*.swp
+*.swo
