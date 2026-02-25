@@ -83,11 +83,6 @@
       "token": "${DISCORD_TOKEN}"
     }
   },
-  "accounts": {
-    "default": {
-      "token": "${DISCORD_TOKEN}"
-    }
-  },
   "gateway": {
     "port": 18789,
     "mode": "local",
